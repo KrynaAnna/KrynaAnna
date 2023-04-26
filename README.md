@@ -90,11 +90,11 @@ My excellent problem-solving skills and ability to work both independently and i
 
 
 ## Github Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrynaAnna&show_icons=true&locale=en&layout=compact" alt="anna" style="width: 500px;"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrynaAnna&show_icons=true&locale=en&layout=compact" alt="anna" style="width: 400px;"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KrynaAnna&show_icons=true&locale=en" alt="anna" style="width: 500px;"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KrynaAnna&show_icons=true&locale=en" alt="anna" style="width: 400px;"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KrynaAnna&" alt="anna" style="width: 500px;"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KrynaAnna&" alt="anna" style="width: 400px;"/></p>
 
 <br/>
 
