@@ -32,31 +32,8 @@ I am proficient in developing and deploying solutions. I also have experience in
 Additionally, I have a strong background in database management and am proficient in writing SQL queries and working with databases like PostgreSQL, MySQL, and SQLite. In addition, I have knowledge of Docker and its basic concepts, such as images, containers, and registries. 
 
 My excellent problem-solving skills and ability to work both independently and in a team make me an asset to any project.</div>  
-  
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on changing UI/UX design for my web apps  
-  
-
-- 🌱 I’m currently learning Docker and Kubernetes  
-  
-
-- 💡 Motivation for me: "If you want to have something you've never had, you must do something you've never done."  Thomas Jefferson  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://github.com/KrynaAnna/KrynaAnna/blob/main/4421964.jpg" align="center" height="200" width="200" />
-</div>  
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
@@ -85,6 +62,28 @@ My excellent problem-solving skills and ability to work both independently and i
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 </div>  
+
+<br/>  
+
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently working on changing UI/UX design for my web apps  
+  
+
+- 🌱 I’m currently learning Docker and Kubernetes  
+  
+
+- 💡 Motivation for me: "If you want to have something you've never had, you must do something you've never done."  Thomas Jefferson  
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://github.com/KrynaAnna/KrynaAnna/blob/main/4421964.jpg" align="center" height="200" width="200" />
+</div>  
+</td></tr></table> 
 
 <br/>  
 
