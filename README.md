@@ -90,28 +90,18 @@ My excellent problem-solving skills and ability to work both independently and i
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrynaAnna&show_icons=true&locale=en&layout=compact" alt="anna" style="width: 500px;"/></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KrynaAnna&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KrynaAnna&show_icons=true&locale=en" alt="anna" style="width: 500px;"/></p>
 
-</td><td valign="top" width="50%">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KrynaAnna&" alt="anna" style="width: 500px;"/></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrynaAnna&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<br/>
 
-</td></tr></table>  
-
-<br/>  
-
-  
+## Contribution Graph
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KrynaAnna&theme=tokyo-night)
 
 <br/>  
-
-  
-
+<br/>  
 <br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
