@@ -81,7 +81,7 @@ My excellent problem-solving skills and ability to work both independently and i
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/KrynaAnna/KrynaAnna/blob/main/4421964.jpg" align="center" height="200" width="200" />
+<img src="https://github.com/KrynaAnna/KrynaAnna/blob/main/03.jpg" align="center" height="200" width="200" />
 </div>  
 </td></tr></table> 
 
