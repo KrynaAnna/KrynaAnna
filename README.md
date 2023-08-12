@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/KrynaAnna/KrynaAnna/blob/main/02.jpg" align="center" />
+<!-- <img src="https://github.com/KrynaAnna/KrynaAnna/blob/main/02.jpg" align="center" /> -->
 </div>  
   
 
@@ -97,8 +97,6 @@ My excellent problem-solving skills and ability to work both independently and i
 
 <br/>
 
-## Contribution Graph
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KrynaAnna&theme=tokyo-night)
 
 <br/>  
 <br/>  
